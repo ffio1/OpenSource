@@ -1429,6 +1429,14 @@
 			},
 			"icon": "encore",
 			"type": "custom"
+		},
+		{
+			"ids": [ "ultrastar" ],
+			"names": {
+				"en-US": "Ultrastar"
+			},
+			"icon": "ultrastar",
+			"type": "game"
 		}
 	]
 }
